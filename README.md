@@ -1,6 +1,8 @@
 <div align="center">
 <h1>Projeto previsão do tempo</h1>
 <br>
+<h2>Dados em tempo real</h2>
+<br>
 <p>Linguagens usadas</p>
 
 <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="30" height="30" />
